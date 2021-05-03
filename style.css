@@ -1,0 +1,12 @@
+/*Your code goes here*/
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.games_header_font{
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn_coral_bg{
+    background-color: coral;
+    border: lightcoral;
+}
